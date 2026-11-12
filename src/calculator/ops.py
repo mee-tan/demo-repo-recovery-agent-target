@@ -4,7 +4,7 @@ def add(a: float, b: float) -> float:
 
 # Subtraction of two numbers
 def subtract(a: float, b: float) -> float:
-    return a - b
+    return b - a
 
 # Multiplication of two numbers
 def multiply(a: float, b: float) -> float:
