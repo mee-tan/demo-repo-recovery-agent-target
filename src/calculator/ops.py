@@ -3,7 +3,7 @@ def add(a: float, b: float) -> float:
     return a + b
 
 # Subtraction of two numbers
-def subtract(a: float, b: float) -> float:
+def subtact(a: float, b: float) -> float:
     return a - b
 
 # Multiplication of two numbers
